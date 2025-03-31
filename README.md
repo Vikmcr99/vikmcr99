@@ -50,7 +50,7 @@
 
 <h2 align="center">📂 Projetos em Destaque</h2>
 <div align="center">
-  <p>🎵 <a href="https://github.com/Vikmcr99/MyStreaming">MyStreaming</a> - Plataforma de streaming de música com microsserviços e DevOps</p>
+  <p>🎵 <a href="https://github.com/Vikmcr99/StreamingApp">MyStreaming</a> - Plataforma de streaming de música com microsserviços e DevOps</p>
   <p>💳 <a href="https://github.com/Vikmcr99/TransactionsApp">TransactionsApp</a> - Uma aplicação que autoriza transações de cartões de crédito </p>
   <p>☕ <a href="https://github.com/Vikmcr99/AmantesCafeSocialNetwork">Amantes de Café - Social Network</a> - Rede social em .NET para entusiastas de café​</p>
   <p>➡️ Veja todos os meus projetos no <a href="https://github.com/Vikmcr99?tab=repositories">GitHub</a>!</p>
