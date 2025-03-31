@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Vikmcr99.png" width="150" style="border-radius: 50%"/>
   <h1>Victor Manuel Robinson</h1>
   <h3>🚀 Desenvolvedor Back-end | Java | Spring | C# | .NET | Postgres | AWS | Azure | DevOps</h3>
   <p>Bacharel em Engenharia de Software pelo Instituto INFNET, apaixonado por tecnologia, microsserviços e boas práticas de desenvolvimento.</p>
   
-  <a href="https://www.linkedin.com/in/victormanuelrobinson/">
+  <a href="https://www.linkedin.com/in/victor-robinson-java/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:victor.robinson@al.infnet.edu.br">
@@ -13,6 +12,13 @@
 </div>
 
 ---
+
+<h2 align="center">💻 O Que Estou Fazendo?</h2>
+<p align="center">Atualmente trabalhando em aprimorar minhas habilidades em Java, AWS e mensageria(Kakfa).</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 <div align="center">
@@ -23,7 +29,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
 
 ---
@@ -38,9 +45,9 @@
 
 <h2 align="center">📂 Projetos em Destaque</h2>
 <div align="center">
-  <p>🔹 <a href="https://github.com/Vikmcr99/MyStreaming">MyStreaming</a> - Plataforma de streaming de música com microsserviços e DevOps</p>
-  <p>🔹 <a href="https://github.com/Vikmcr99/TransactionsApp">TransactionsApp</a> - Uma aplicação em Java que autoriza uma transação (cartão de crédito) para uma conta específica após um conjunto de regras predefinidas</p>
-  <p>🔹 <a href="https://github.com/Vikmcr99/AmantesCafeSocialNetwork">Amantes de Café - Social Network</a> - Rede social em .NET para entusiastas de café​</p>
+  <p>🎵 <a href="https://github.com/Vikmcr99/MyStreaming">MyStreaming</a> - Plataforma de streaming de música com microsserviços e DevOps</p>
+  <p>💳 <a href="https://github.com/Vikmcr99/TransactionsApp">TransactionsApp</a> - Uma aplicação que autoriza transações de cartões de crédito</p>
+  <p>☕ <a href="https://github.com/Vikmcr99/AmantesCafeSocialNetwork">Amantes de Café - Social Network</a> - Rede social em .NET para entusiastas de café​</p>
   <p>➡️ Veja todos os meus projetos no <a href="https://github.com/Vikmcr99?tab=repositories">GitHub</a>!</p>
 </div>
 
