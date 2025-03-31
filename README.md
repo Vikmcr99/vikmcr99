@@ -35,10 +35,12 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<h2 align="center">📜 Certificações</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikmcr99&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikmcr99&layout=compact&theme=radical"/>
+  <img src="https://img.shields.io/badge/TOEIC-B2-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Udemy-Spring%20Boot%202025%20REST%20API's%20AWS%20GCP%20Docker-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Harvard%20CS50-Computer%20Science-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Radix%20Brasil-Modelagem%20de%20Dados-green?style=for-the-badge"/>
 </div>
 
 ---
