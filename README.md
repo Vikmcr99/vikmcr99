@@ -17,7 +17,7 @@
 <p align="center">Atualmente trabalhando em aprimorar minhas habilidades em Java, AWS e mensageria (Kakfa).</p>
 
 <div align="center">
-  <img src="https://source.unsplash.com/featured/?cyberpunk,technology" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 
