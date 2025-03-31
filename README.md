@@ -14,7 +14,7 @@
 ---
 
 <h2 align="center">💻 O Que Estou Fazendo?</h2>
-<p align="center">Atualmente trabalhando em aprimorar minhas habilidades em Java, AWS e mensageria(Kakfa).</p>
+<p align="center">Atualmente trabalhando em aprimorar minhas habilidades em Java, AWS e mensageria (Kakfa).</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -35,20 +35,11 @@
 
 ---
 
-<h2 align="center">📜 Certificações</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/TOEIC-B2-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Udemy-Spring%20Boot%202025%20REST%20API's%20AWS%20GCP%20Docker-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Harvard%20CS50-Computer%20Science-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Radix%20Brasil-Modelagem%20de%20Dados-green?style=for-the-badge"/>
-</div>
-
----
 
 <h2 align="center">📂 Projetos em Destaque</h2>
 <div align="center">
   <p>🎵 <a href="https://github.com/Vikmcr99/MyStreaming">MyStreaming</a> - Plataforma de streaming de música com microsserviços e DevOps</p>
-  <p>💳 <a href="https://github.com/Vikmcr99/TransactionsApp">TransactionsApp</a> - Uma aplicação que autoriza transações de cartões de crédito</p>
+  <p>💳 <a href="https://github.com/Vikmcr99/TransactionsApp">TransactionsApp</a> - Uma aplicação Java que autoriza transações de cartões de crédito</p>
   <p>☕ <a href="https://github.com/Vikmcr99/AmantesCafeSocialNetwork">Amantes de Café - Social Network</a> - Rede social em .NET para entusiastas de café​</p>
   <p>➡️ Veja todos os meus projetos no <a href="https://github.com/Vikmcr99?tab=repositories">GitHub</a>!</p>
 </div>
