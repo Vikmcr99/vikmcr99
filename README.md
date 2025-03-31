@@ -17,8 +17,9 @@
 <p align="center">Atualmente trabalhando em aprimorar minhas habilidades em Java, AWS e mensageria (Kakfa).</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/-y4oKULzKLoAAAAC/coding.gif" width="400"/>
 </div>
+
 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 <div align="center">
