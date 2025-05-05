@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Victor Manuel Robinson</h1>
-  <h3>🚀 Desenvolvedor Back-end | Java | Spring | C# | .NET | Postgres | AWS | Azure | DevOps</h3>
+  <h3>🚀 Desenvolvedor Back-end | Java | Spring | Postgres | OracleDB | AWS | Azure | DevOps</h3>
   <p>Bacharel em Engenharia de Software pelo Instituto INFNET, apaixonado por tecnologia, microsserviços e boas práticas de desenvolvimento.</p>
   
   <a href="https://www.linkedin.com/in/victor-robinson-java/">
